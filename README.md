@@ -1,3 +1,3 @@
 # hello-world
 
-This is just mee trying this out.
+This is just me trying this out.
